@@ -22,7 +22,10 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "soundfocusttv@example.com"
+      "id": "soundfocusttv@demko.com",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
     }
   }
 }

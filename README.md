@@ -2,7 +2,7 @@
 
 This extension mutes all Twitch tabs except the one you are watching.
 
-You are watching multiple twitch streams and you are tired of muting the stream, go to the other stream and unmute it every time you want to change the stream. SoundFocusTTV will solve this for you. It will unmute automatically all twitch streams except the one you are watching. 
+You are watching multiple twitch streams and you are tired of muting the stream, go to the other stream and unmute it every time you want switch between twitch tabs. SoundFocusTTV will solve this for you. It will unmute automatically all twitch streams except the one you are watching. 
 
 Currently working for multiple tabs in a single window. 
 Multiple windows will be supported in the future.
