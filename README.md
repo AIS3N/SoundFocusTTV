@@ -14,19 +14,16 @@ Multiple windows will be supported in the future.
 
 ## How to Install
 
+### Firefox
+
+[Install from the Firefox Add-ons site](https://addons.mozilla.org/fr/firefox/addon/soundfocusttv/)
+
 ### Chrome
 
 1.  Open Chrome and navigate to `chrome://extensions`.
 2.  Enable "Developer mode" in the top right corner.
 3.  Click "Load unpacked".
 4.  Select the `chrome` folder from this repository.
-
-### Firefox
-
-1.  Open Firefox and navigate to `about:debugging`.
-2.  Click "This Firefox" on the left side.
-3.  Click "Load Temporary Add-on".
-4.  Select the `manifest.json` file inside the `firefox` folder.
 
 ## How to Use
 
