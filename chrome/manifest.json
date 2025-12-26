@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "SoundFocusTTV",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Mutes all Twitch tabs except the one you.",
   "permissions": ["tabs", "storage"],
   "background": {
@@ -10,14 +10,14 @@
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "images/16.png",
-      "48": "images/48.png",
-      "128": "images/128.png"
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
     }
   },
   "icons": {
-    "16": "images/16.png",
-    "48": "images/48.png",
-    "128": "images/128.png"
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
   }
 }

@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "SoundFocusTTV",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Mutes all Twitch tabs except the one you watch.",
   "permissions": ["tabs", "storage"],
   "background": {
