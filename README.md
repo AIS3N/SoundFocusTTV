@@ -20,10 +20,8 @@ Multiple windows will be supported in the future.
 
 ### Chrome
 
-1.  Open Chrome and navigate to `chrome://extensions`.
-2.  Enable "Developer mode" in the top right corner.
-3.  Click "Load unpacked".
-4.  Select the `chrome` folder from this repository.
+[Install from the Chrome Web Store](https://chromewebstore.google.com/detail/soundfocusttv/oaeglnmhbgfjpacokbgfkdfiahoogmpi)
+
 
 ## How to Use
 
